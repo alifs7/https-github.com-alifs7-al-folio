@@ -409,11 +409,11 @@ ninja.data = [{
           window.location.href = "/al-folio/blog/2015/code/";
         
       },
-    },{id: "post-a-post-with-images",
+    },{id: "post-exploring-the-beauty-of-nature",
       
-        title: "a post with images",
+        title: "Exploring the Beauty of Nature",
       
-      description: "this is what included images could look like",
+      description: "A journey through the landscapes and wonders of nature.",
       section: "Posts",
       handler: () => {
         
