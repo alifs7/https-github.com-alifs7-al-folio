@@ -398,11 +398,11 @@ ninja.data = [{
           window.location.href = "/al-folio/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
+    },{id: "post-hello-python",
       
-        title: "a post with code",
+        title: "Hello, Python!",
       
-      description: "an example of a blog post with some code",
+      description: "A quick introduction to Python programming.",
       section: "Posts",
       handler: () => {
         
