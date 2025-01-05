@@ -387,11 +387,11 @@ ninja.data = [{
           window.location.href = "/al-folio/blog/2015/disqus-comments/";
         
       },
-    },{id: "post-a-post-with-math",
+    },{id: "post-the-elegance-of-einstein-39-s-equation",
       
-        title: "a post with math",
+        title: "The Elegance of Einstein&#39;s Equation",
       
-      description: "an example of a blog post with some math",
+      description: "Understanding the core of energy and mass equivalence.",
       section: "Posts",
       handler: () => {
         
